@@ -1,0 +1,3 @@
+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
+
+git remote add origin https://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@github.com/Sharath-Gowda1/Learning.git
